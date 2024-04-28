@@ -1,3 +1,8 @@
-import os
+import os,re,sys,platform
 os.system('git pull')
-import YOUNIS
+bit = platform.architecture()[0]
+if bit == '64bit':
+    from Xyz import XYZ
+    XYZ()
+elif bit == '32bit':
+    print(f"\03[1;91m Sorry 32Bit Not Supported .... ");exit() 

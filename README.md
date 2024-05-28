@@ -45,6 +45,8 @@ PAID TOOL
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
 
 
-### Menu Screenshot
+### Screenshot
 
 ![Menu-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/XYZ_MENU.jpg)
+
+![Crack-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Xyz_hack.jpg)

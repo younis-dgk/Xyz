@@ -47,6 +47,6 @@ PAID TOOL
 
 ### Screenshot
 
-![Menu-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/XYZ_MENU.jpg)
+![Menu-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Screenshot_20240711-185920.jpg)
 
 ![Crack-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Xyz_hack.jpg)

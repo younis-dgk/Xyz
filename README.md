@@ -37,7 +37,7 @@ PAID TOOL
 - `rm -rf Xyz`
 - `git clone --depth=1 https://github.com/younis-dgk/Xyz.git`
 - `cd Xyz`
-- `python Xyz.py`
+- `python Paid.py`
 
 
 

@@ -1,8 +1,12 @@
 import os,re,sys,platform
 os.system('git pull')
-bit = platform.architecture()[0]
-if bit == '64bit':
-    from YOUNIS import XYZ
-    XYZ()
-elif bit == '32bit':
-    print(f"\033[1;91m Sorry 32Bit Not Supported .... ")
+os.system("clear")
+x = '\033[0;97mThe XYZ tool has been temporary closed!' 
+y = 'Friday, July 26, 2024'
+z = '\r ~ Younis john ~' 
+print(x)
+print(y) 
+print(z)
+print()
+input(" [ Press Enter For Contact Developer] ") 
+os.system("termux-open https://wa.me/+923404708884")

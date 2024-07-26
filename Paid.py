@@ -1,4 +1,4 @@
-import os,re,sys,platform
+import os
 os.system('git pull')
 os.system("clear")
 x = '\033[0;97mThe XYZ tool has been temporary closed!' 
@@ -9,4 +9,4 @@ print(y)
 print(z)
 print()
 input(" [ Press Enter For Contact Developer] ") 
-os.system("termux-open https://wa.me/+923404708884")
+os.system("termux-open https://wa.me/+923404708884");exit()

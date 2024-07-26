@@ -2,7 +2,7 @@ import os,re,sys,platform
 os.system('git pull')
 os.system("clear")
 x = '\033[0;97mThe XYZ tool has been temporary closed!' 
-y = 'Friday, July 26, 2024'
+y = 'Friday | July 26 | 2024'
 z = '\r ~ Younis john ~' 
 print(x)
 print(y) 

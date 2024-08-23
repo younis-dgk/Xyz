@@ -50,3 +50,17 @@ PAID TOOL
 ![Menu-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Screenshot_20240711-185920.jpg)
 
 ![Crack-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Xyz_hack.jpg)
+
+
+## File Create Tool
+```
+cd
+clear
+git clone https://github.com/younis-dgk/Xyz
+cd Xyz
+python Dump.py
+
+```
+
+### MENU
+![template](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Screenshot_20240823-095555.jpg)

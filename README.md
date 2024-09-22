@@ -1,5 +1,5 @@
 # XYZ
-PAID TOOL
+Free Tool
 <p align="center" width="100%" height="auto">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=younis-dgk.younis-dgk"/>
     <img src="https://img.shields.io/github/followers/younis-dgk?style=flat"/>
@@ -37,7 +37,7 @@ PAID TOOL
 - `rm -rf Xyz`
 - `git clone --depth=1 https://github.com/younis-dgk/Xyz.git`
 - `cd Xyz`
-- `python Paid.py`
+- `python Xyz.py`
 
 
 

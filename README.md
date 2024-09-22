@@ -41,7 +41,7 @@ Free Tool
 
 
 
- ___This Tools is Paid___</br>
+ ___This Tools is Free___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
 
 

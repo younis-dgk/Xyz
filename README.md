@@ -49,6 +49,6 @@ Free Tool
 
 ### Screenshot
 
-![Menu-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Screenshot_20240711-185920.jpg)
+![Menu-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/1728868471539.png)
 
 ![Crack-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Xyz_hack.jpg)

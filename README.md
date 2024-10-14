@@ -34,15 +34,17 @@ Free Tool
 - `pip install pycurl`
 - `pip install certifi`
 - `pip install aiohttp`
+- `cd`
+- `clear`
 - `rm -rf Xyz`
-- `git clone --depth=1 https://github.com/younis-dgk/Xyz.git`
+- `git clone --depth=1 https://github.com/younis-dgk/Xyz`
 - `cd Xyz`
 - `python Xyz.py`
 
 
 
  ___This Tools is Free___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923194999455)
 
 
 ### Screenshot
@@ -50,17 +52,3 @@ Free Tool
 ![Menu-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Screenshot_20240711-185920.jpg)
 
 ![Crack-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Xyz_hack.jpg)
-
-
-## File Create Tool
-```
-cd
-clear
-git clone https://github.com/younis-dgk/Xyz
-cd Xyz
-python Dump.py
-
-```
-
-### MENU
-![template](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/Screenshot_20240823-095555.jpg)

@@ -3,10 +3,10 @@
 # Whatsapp : +923194999455
 # More About : https://bio.link/younis_dgk
 import os, sys, platform
-print('\033[0;97m [💸]\033[92m join Whatsapp Group')
+print('\033[0;97m [💸💸]\033[92m join Whatsapp Group')
 os.system('xdg-open https://chat.whatsapp.com/CSfWIqJDSbJKdwLaQLXDFh')
 os.system('clear')
-print('\033[0;97m [💚] \033[92mChecking For Updates...')
+print('\033[0;97m [💸💸] \033[92mChecking For Updates...')
 os.system('git pull --quiet 2>/dev/null')
 os.system('rm -rf jd.so')
 try:

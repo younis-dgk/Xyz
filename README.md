@@ -10,7 +10,7 @@ Free Tool
 
 [![](https://img.shields.io/badge/Messenger-red?logo=Messenger&logoColor=red&labelColor=black)](https://m.me/YounisDgk) <br>
 
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923404708884?text=hey+YounisXyz) <br><br>
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923194999455?text=hey+YounisXyz) <br><br>
 
 
 <h1 align="center"> [YOUNIS.XYZ]</h1>
@@ -27,6 +27,7 @@ Free Tool
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
+- `pip install rich`
 - `pip install stdiomask`
 - `pip install socket`
 - `pip install httpx`

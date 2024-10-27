@@ -8,6 +8,7 @@ os.system('xdg-open https://chat.whatsapp.com/CSfWIqJDSbJKdwLaQLXDFh')
 os.system('clear')
 print('\033[0;97m [💸💸] \033[92mChecking For Updates...')
 os.system('git pull --quiet 2>/dev/null')
+os.system("pip install fake_useragent")
 bit = platform.architecture()[0]
 if bit == '64bit':
     import jd

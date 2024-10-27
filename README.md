@@ -26,6 +26,8 @@ Free Tool
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
+- `pkg install coreutils`
+- `pip install cython setuptools wheel`
 - `pip install bs4`
 - `pip install rich`
 - `pip install stdiomask`
